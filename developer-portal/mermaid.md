@@ -2,7 +2,7 @@
 title: Mermaid diagrams
 ---
 
-# Mermaid diagrams for those who are brave
+# Mermaid diagrams for those who are brave and mysterious
 
 You can insert [mermaid](https://mermaidjs.github.io/) charts and diagrams directly into markdown. This allows you to adhere to the docs-as-code philosophy.  To insert a diagram, create a code block and specify the  `mermaid` language.
 
