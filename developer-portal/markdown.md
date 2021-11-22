@@ -43,9 +43,9 @@ You can create a link to it.
 
 To do that, you can edit this `markdown.md` file and remove the back ticks around this example.
 
-```markdown
+
 [My first plain markdown page!](plain.md)
-```
+
 
 (And save your file.)
 
@@ -70,9 +70,7 @@ Linking to it from navigation is the subject of other training exercises.
 ## Add an image to your markdown page
 
 You can copy/paste this into your page.
-```markdown
 ![markdown file changed](./images/markdown-file-changed.png)
-```
 
 Or, you can add an image.
 You can add an image anywhere in the directory structure.
