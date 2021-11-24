@@ -9,7 +9,7 @@ linkChecker:
   options:
     CheckExternal: false
 logo:
-  image: ./images/logo.png
+  image: ./images/bb_logo_png.png
   altText: Redocly Training
 toc:
   enable: true
@@ -38,9 +38,10 @@ nav:
   - label: iOs SDK
     page: developer-portal/iosSDK.md
 
-  - label: External docs
+  - label: Blue Billywig
     icon: ./images/redocly-icon-white.png
-    href: https://redoc.ly/docs/developer-portal/introduction/
+    href: https://www.bluebillywig.com/
+    target: '_blank'
 
   - search: true
 
