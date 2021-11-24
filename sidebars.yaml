@@ -1,7 +1,7 @@
 training:
   - page: developer-portal/index.md
   - group: Training exercises
-    expanded: true
+    expanded: false
     pages:
       - label: Setup
         page: developer-portal/setup.md
@@ -42,6 +42,10 @@ training:
     expanded: false
     pages:
       - page: openapi/reference.page.yaml/*
+  - group: Live BB reference
+    expanded: true
+    pages:
+      - page: openapi/live.page.yaml/*
   - group: Test reference
     expanded: false
     pages:
