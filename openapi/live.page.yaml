@@ -1,9 +1,24 @@
 type: reference-docs
-definitionId: live
-settings:
-  pagination: section
-  generateCodeSamples:
-    languages:
-      - lang: curl
-      - lang: JavaScript
-      - lang: Node.js
+versions:
+  - definitionId: live
+    id: v1
+    title: Live V1
+    isDefault: false
+    settings:
+      pagination: section
+      generateCodeSamples:
+        languages:
+          - lang: curl
+          - lang: JavaScript
+          - lang: Node.js
+  - definitionId: livev2
+    id: v2
+    title: Live V2
+    isDefault: true
+    settings:
+      pagination: section
+      generateCodeSamples:
+        languages:
+          - lang: curl
+          - lang: JavaScript
+          - lang: Node.js

@@ -17,6 +17,7 @@ oasDefinitions:
   petstore: ./openapi/petstore.yaml
   test: https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/api-with-examples.yaml
   live: https://api.redoc.ly/registry/blue-billywig/test%20live%20platform/v1/bundle/master/openapi.yaml
+  livev2: https://api.redoc.ly/registry/blue-billywig/test%20live%20platform/v1/bundle/master/openapi.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap
